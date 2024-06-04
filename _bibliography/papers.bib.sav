@@ -1,0 +1,38 @@
+% Encoding: UTF-8
+
+@Article{Foderaro2022,
+  author  = {Foderaro, Antonella and Gunnarsson Lorentzen, David},
+  title   = {Facts and Arguments Checking: Investigating the Occurrence of Scientific Argument on Twitter},
+  journal = {Information Research (CoLIS 11)},
+  year    = {2022},
+  pdf     = {Facts-and-arguments-checking.pdf},
+  bibtex_show={true},
+}
+
+@Article{Foderaro2023,
+  author  = {Foderaro, Antonella and Gunnarsson Lorentzen, David},
+  title   = {Argumentative practices and patterns in debating climate change on Twitter},
+  journal = {Aslib Journal of Information Management},
+  year    = {2023},
+  volume  = {75},
+  number  = {1},
+  pages   = {131--148},
+  pdf     = {Argumentative-practices-and-patterns.pdf},
+  selected = {true},
+  bibtex_show={true},
+}
+
+@Article{Foderaro2023a,
+  author  = {Foderaro, Antonella},
+  title   = {On impersonal justice: libraries' neutrality as an act of change},
+  journal = {Journal of Documentation},
+  year    = {2023},
+  volume  = {79},
+  number  = {6},
+  pages   = {1393--1412},
+  doi     = {10.1108/JD-10-2022-0227},
+  pdf     = {On-impersonal-justice.pdf},
+  bibtex_show={true},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
