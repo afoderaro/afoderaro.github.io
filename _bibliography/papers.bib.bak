@@ -35,15 +35,4 @@
   bibtex_show={true},
 }
 
-@Article{Foderaro2024,
-  author      = {Foderaro, Antonella and Gunnarsson Lorentzen, David},
-  title       = {Traditional, dialogical and complex scholarly communication: towards a renewed trust in science},
-  journal     = {Journal of Documentation},
-  year        = {2024},
-  issn        = {0022-0418},
-  bibtex_show = {true},
-  doi         = {10.1108/JD-12-2023-0252},
-  pdf         = {Traditional-dialogical-complex-scholarly-communication.pdf},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
